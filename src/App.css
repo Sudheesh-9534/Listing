@@ -1,0 +1,7 @@
+.App{
+  height: 400vh;
+  background: rgb(204, 113, 113);
+}
+.Tweet{
+    border: 2px solid rgb(56, 154, 172);
+}
